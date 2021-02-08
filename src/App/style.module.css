@@ -1,0 +1,13 @@
+.container {
+  padding: 48px;
+}
+
+.container .search {
+  display: block;
+  margin: 0 auto 48px;
+  width: 300px;
+}
+
+.container tr:first-of-type {
+  background: #e9ffdb;
+}
